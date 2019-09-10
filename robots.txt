@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aetainoof.georgecallaway.com/sitemap.xml
